@@ -59,7 +59,8 @@ EDA involved the exploring of the Data to create some reports and answer some  q
 - find customers with subscriptions longer than 12 months.
 - calculate total revenue by subscription type. 
 - find the top 3 regions by subscription cancellations. 
-- find the total number of active and canceled subscriptions.
+- find the total number of active and canceled subscriptions.    
 
--     
-- - -
+
+### Data Analysis
+- - - 
