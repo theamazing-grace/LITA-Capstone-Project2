@@ -1,5 +1,17 @@
 # LITA Capstone Project 
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Title: Customer Segmentation for a Subscription Service 
 - - - 
 
@@ -37,4 +49,17 @@ During the first stage of the data cleaning and preparation we carried out the f
 
 
 ### Exploratory Data Analysis
+- - -
+EDA involved the exploring of the Data to create some reports and answer some  questions about the data such as; 
+- analysing customer data using pivot tables to find subscription patterns
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers. 
+- find customers who canceled their subscription within 6 months. 
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type. 
+- find the top 3 regions by subscription cancellations. 
+- find the total number of active and canceled subscriptions.
+
+-     
 - - -
