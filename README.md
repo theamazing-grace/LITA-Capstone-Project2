@@ -13,3 +13,28 @@ The main source of data used in this project is Customer Data.xls and this was g
 
 ### Tools Used 
 - - -
+- MIcrosoft Excel  [Download Here](https://www.microsoft.com)
+  1. for Data Cleaning
+  2. for  Analysis
+  3. for Visualization
+     
+- SQL- Structured Querying of Data 
+  
+- Power BI   [Download Here](https://www.microsoft.com)
+  1. for Data Cleaning
+  2. for Creating Report
+  3. for Visualization
+- Github for Portfolio building
+  
+
+### Data Cleaning and Preparation
+- - -
+During the first stage of the data cleaning and preparation we carried out the following tasks: 
+1. Data loading  and examination
+2. Handling missing variables
+3. Removal of duplicates data
+4. Data cleaning and formatting   
+
+
+### Exploratory Data Analysis
+- - -
