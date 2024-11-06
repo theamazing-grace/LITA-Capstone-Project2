@@ -9,5 +9,7 @@ The goal of this project analysis is to draw insights from the customer segmenta
 
 ### Data Sources 
 - - -
+The main source of data used in this project is Customer Data.xls and this was gotten from The Incubator Hub solely for the purpose of the Capstone Project. 
 
-
+### Tools Used 
+- - -
